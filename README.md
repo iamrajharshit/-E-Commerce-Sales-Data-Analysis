@@ -1,12 +1,12 @@
 # Python and SQL E-commerce Analysis Project
 
-This project involves analyzing an eCommerce dataset using Python for data manipulation and SQL for querying a MySQL database. The analysis explores various aspects of the data, including customer locations, sales, order statistics, and payment trends.
+This project involves analyzing an [eCommerce dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+) using Python for data manipulation and SQL for querying a MySQL database. The analysis explores various aspects of the data, including customer locations, sales, order statistics, and payment trends.
 
 ## Project Structure
 
 - **`Questions.txt`**: Contains questions or tasks that guided the analysis.
 - **`csv_to_sql.py`**: A Python script for converting CSV files into SQL tables.
-- **`dataset_link.txt`**: A link to the dataset used.
 - **`python+sql_ecommerce.ipynb`**: A Jupyter notebook integrating Python and SQL for data analysis.
 
 ## Features
